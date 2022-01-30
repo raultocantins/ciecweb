@@ -24,7 +24,7 @@ class _LoginPageState extends State<LoginPage> {
                 top: 10,
                 left: 20,
                 child: Image.asset(
-                  "easylogo.png",
+                  "CIEC.png",
                   fit: BoxFit.cover,
                 ),
               ),
@@ -200,7 +200,7 @@ class _LoginPageState extends State<LoginPage> {
                                     text: "Bem vindo à ",
                                     children: [
                                       TextSpan(
-                                        text: "Easy Gestão Comercial",
+                                        text: "CIEC",
                                         style: TextStyle(
                                             color: Colors.white,
                                             fontSize: 24,
